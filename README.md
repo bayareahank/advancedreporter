@@ -1,5 +1,6 @@
 # advancedreporter
-Automatically exported from code.google.com/p/advancedreporter
+Automatically exported from 
+https://code.google.com/p/advancedreporter
 
 This code was finished and open sourced while I was working in Gear6, together with Rama. Gear6 was acquired by 
 Violin Memory henceafter. 
